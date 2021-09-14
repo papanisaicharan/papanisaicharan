@@ -1,0 +1,4 @@
+- :zap: I love math, programming, building web apps, data science, and books
+- 🌱 I’m addicted to learning and growing every day.
+- 📫 How to find me: 
+  - [LinkedIn](https://www.linkedin.com/in/saicharan-papani/)
