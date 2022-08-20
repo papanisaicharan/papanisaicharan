@@ -16,3 +16,4 @@
 - 📫 How to find me: 
   - [LinkedIn](https://www.linkedin.com/in/saicharan-papani/)
   - [Instagram](https://www.instagram.com/sai__charan__/)
+  - [College github account](https://github.com/SaicharanPapani)
